@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello world</h1>
+    <?php
+        $a = 5;
+        $b = 6;
+         echo $c = $a*$b;
+    ?>
 </body>
 </html>
