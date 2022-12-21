@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-        $a = 5;
+        $a = 11;
         $b = 6;
          echo $c = $a*$b;
     ?>
